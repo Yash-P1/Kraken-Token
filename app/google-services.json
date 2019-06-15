@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "521470884472",
+    "firebase_url": "https://tracking-9c18a.firebaseio.com",
+    "project_id": "tracking-9c18a",
+    "storage_bucket": "tracking-9c18a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521470884472:android:ee95ab9bbc4530eb",
+        "android_client_info": {
+          "package_name": "com.nerdsure.appractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521470884472-e72k4fl5sp39srrnmothmcociu29kvnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvaUKjAnSdzYwOq_2CEAvbyw5sbX05xGA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
